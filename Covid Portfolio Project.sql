@@ -1,5 +1,6 @@
 /*
 2020-2023 Covid Data Exploration
+Data taken from - https://ourworldindata.org/
 Skills used - JOINS, Temporary tables, Aggregating Functions, CTEs, Partition By
 */
 
